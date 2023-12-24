@@ -5,7 +5,7 @@ Folder: Task1
 
 Instructions to run the code:<br />
 Clone the repository:<br />
-git clone https://github.com/Priyaahere/2105134_AI/tree/main/Task1.git<br />
+git clone https://github.com/Priyaahere/2105134_AI/tree/main/Task1<br />
 Navigate to the repository directory:<br />
 cd 2105134_AI/Task1<br />
 Install the required dependencies:<br />
